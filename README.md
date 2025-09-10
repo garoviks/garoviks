@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @garoviks
-- 👀 I’m interested in Python and Ruby
-- 🌱 I’m currently learning using API to send commands to Discourse
-- 💞️ I’m looking to collaborate on Discourse
+- 👀 I’m interested in Python and AI agents
 - 📫 How to reach me ...
 
 <!---
